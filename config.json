@@ -1,0 +1,10 @@
+{
+    "mode": "simple",
+    "show_popup": false,
+    "sound_file": "assets/alarm.mp3",
+    "sound_duration": 4,
+    "theme": "light",
+    "work_minutes": 25,
+    "break_minutes": 5,
+    "cycle_minutes": 1
+}

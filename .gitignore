@@ -1,0 +1,16 @@
+# Ignorar carpetas de PyInstaller
+__pycache__/
+build/
+dist/
+
+# Archivos temporales de Python
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de PyInstaller
+*.spec
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
