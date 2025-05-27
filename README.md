@@ -11,11 +11,10 @@
 - Persistent settings saved between sessions
 - Lightweight executable – no need to install Python!
 
----
 
 ## 🚀 How to Run
 
-Download the `.exe` from the [Releases section](https://github.com/YOUR_USERNAME/TakeABreak/releases) and double click to run.
+Download the `.exe` from the [Releases section](https://github.com/rickyrivero/TakeABreak/releases) and double click to run.
 
 ✅ No installation or Python required.
 
