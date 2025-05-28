@@ -23,3 +23,14 @@ I recommend to download my [alarm.mp3](https://github.com/rickyrivero/TakeABreak
 ## Gerenal idea
 
 You have 2 options to use. The first one is the "Simple timer" which runs 1 cycle at a time, once the selected time is over the alarm will go on but to continue another cycle you have to click the start button again. The second one is the "Complete timer" with two timer inputs, one is the work time and the other is the break time, you can edit that for your convenience; also this timer runs for as many cycle as you want, as itarates over and over again, you can stop at any time with the buttons or close the app.
+
+## Screenshots
+
+Whe you download the .exe file and open it on your computer, you may see something like this. In other to use the app you need to click in the "more information" section.
+![windows-alert-image](assets\windows-alert.png)
+
+To run the app just click on the "run this app" button.
+![windows-alert-image-2](assets\windows-alert-2.png)
+
+Now, when you double click the .exe you will see this dashboard with different buttons for your needs.
+![dashboard-image](assets\dashboard.png)
