@@ -27,10 +27,10 @@ You have 2 options to use. The first one is the "Simple timer" which runs 1 cycl
 ## Screenshots
 
 Whe you download the .exe file and open it on your computer, you may see something like this. In other to use the app you need to click in the "more information" section.
-![windows-alert-image](assets\windows-alert.png)
+![windows-alert-image](assets/windows-alert.png)
 
 To run the app just click on the "run this app" button.
-![windows-alert-image-2](assets\windows-alert-2.png)
+![windows-alert-image-2](assets/windows-alert-2.png)
 
 Now, when you double click the .exe you will see this dashboard with different buttons for your needs.
-![dashboard-image](assets\dashboard.png)
+![dashboard-image](assets/dashboard.png)
